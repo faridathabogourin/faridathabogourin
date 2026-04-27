@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Faridath ABOGOURIN
 
-<!--
-**faridathabogourin/faridathabogourin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante en informatique | Bachelor 1 ECE Paris
+🔍 Recherche alternance Support IT / Réseaux — Septembre 2026
+📍 Herblay-sur-Seine (95) | Mobilité nationale
 
-Here are some ideas to get you started:
+## 🛠️ Compétences techniques
+- **Réseaux** : IP, DHCP, DNS, VLAN, Cisco Packet Tracer
+- **Systèmes** : Windows 10/11, Linux, Active Directory (TryHackMe)
+- **Support** : GLPI — ticketing et gestion de parc
+- **Dev** : HTML, CSS, JavaScript, PHP, C, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Mes projets
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [TP5-Réseau](https://github.com/faridathabogourin/TP5-Architecture-ClientServeur-DHCP-DNS-HTTP.git) | Architecture LAN/DMZ — DHCP, DNS, HTTP | Cisco PT |
+| [GLPI-Support-IT]() | Gestion de tickets et parc informatique | GLPI |
+| [AD-TryHackMe](lien) | Active Directory Basics — 94% | TryHackMe |
+| [IWOSAN](https://github.com/faridathabogourin/iwosan.git) | Carnet médical numérique | HTML/CSS/JS |
+| [Exo_Fruits](https://github.com/faridathabogourin/Exo_fruits.git) | Site e-commerce | HTML/CSS/JS/PHP |
+
+## 📜 Certifications & Labs
+- 🔐 TryHackMe — Active Directory Basics (94%)
+- ✅ Tech For All — Culture numérique
+- ✅ No Code TechAway — Automatisation
+- ✅ IA & GenAI — Prompt Engineering
+
+## 📫 Contact
+[![LinkedIn](badge)](https://www.linkedin.com/in/faridath-abogourin) [![Email](badge)](mailto:faridathabogourin7@gmail.com)
