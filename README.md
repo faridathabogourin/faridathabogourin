@@ -26,4 +26,4 @@
 - ✅ IA & GenAI — Prompt Engineering
 
 ## 📫 Contact
-[![LinkedIn](badge)](https://www.linkedin.com/in/faridath-abogourin) [![Email](badge)](mailto:faridathabogourin7@gmail.com)
+[![LinkedIn]](https://www.linkedin.com/in/faridath-abogourin) [![Email]](mailto:faridathabogourin7@gmail.com)
