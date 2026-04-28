@@ -87,7 +87,7 @@ HTML • CSS • JavaScript • PHP • C • SQL • MySQL • MongoDB
 ## 📫 Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faridath_Abogourin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faridath-abogourin-1464b03a8)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/faridathabogourin)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/faridathabogourin7)
 [![Email](https://img.shields.io/badge/Email-faridathabogourin7@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:faridathabogourin7@gmail.com)
 
 ---
