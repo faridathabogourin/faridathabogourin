@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Faridath ABOGOURIN
 
-🎓 **Étudiante Bachelor 1 Informatique** — ECE Paris  
-🔍 **En recherche d'alternance** Technicien Supérieur Systèmes & Réseaux — Septembre 2026  
+🎓 Étudiante Bachelor 2 Informatique — SUPINFO Paris
+🔍 En recherche d'alternance Support IT & Réseaux — 2 ans, dès que possible  
 📍 Herblay-sur-Seine (95) | Mobilité nationale  
 🌍 Étudiante internationale (Bénin)
 
@@ -68,9 +68,10 @@ HTML • CSS • JavaScript • PHP • C • SQL • MySQL • MongoDB
 ## 🎓 Formation
 
 ```
-📚 Bachelor 1 Informatique          ECE Paris            2025 → 2026
-📚 Licence 1 IRT                    ESGIS Bénin          2024 → 2025
-   (Informatique Réseaux Télécoms)  13,62/20 — 60/60 ECTS
+📚 Bachelor 2 Informatique          SUPINFO Paris         2026 → 2028
+📚 Bachelor 1 Informatique          ECE Paris             2025 → 2026
+📚 Licence 1 IRT                    ESGIS Bénin           2024 → 2025
+   (Informatique Réseaux Télécoms)  60/60 ECTS
 📚 Baccalauréat Général Série D     Collège Saint Laurent 2024
 ```
 
@@ -86,10 +87,10 @@ HTML • CSS • JavaScript • PHP • C • SQL • MySQL • MongoDB
 
 ## 📫 Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Faridath_Abogourin-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faridath-abogourin-1464b03a8)
+[![LinkedIn](https://img.shields.io/badge/www.linkedin.com/in/faridath-abogourin?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faridath-abogourin-1464b03a8)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/faridathabogourin7)
 [![Email](https://img.shields.io/badge/Email-faridathabogourin7@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:faridathabogourin7@gmail.com)
 
 ---
 
-> 💡 *Disponible en alternance Technicien Supérieur Systèmes & Réseaux à partir de septembre 2026*
+> 💡 *Disponible en alternance Support IT & Réseaux dès que possible*
