@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Faridath ABOGOURIN
 
-🎓 Étudiante Bachelor 2 Informatique — SUPINFO Paris
-🔍 En recherche d'alternance Support IT & Réseaux — 2 ans, dès que possible  
+🎓 Étudiante Bachelor 2 Informatique - SUPINFO Paris
+🔍 En recherche d'alternance Support IT & Réseaux - 2 ans, dès que possible  
 📍 Herblay-sur-Seine (95) | Mobilité nationale  
 🌍 Étudiante internationale (Bénin)
 
